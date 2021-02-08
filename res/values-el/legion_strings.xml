@@ -640,13 +640,13 @@
     <!-- Quick Settings brightness slider -->
     <string name="qs_show_brightness_slider_title">Μπάρα φωτισμού</string>
     <string name="qs_show_brightness_slider_summary">Εμφάνιση μπάρας φωτισμού στο πάνελ γρήγορων ρυθμίσεων</string>
-	<string name="qs_show_brightness_slider_expanded_title">Εκτεταμένος ρυθμιστής φωτεινότητας γρηγ. ρυθμίσεων QS</string>
+    <string name="qs_show_brightness_slider_expanded_title">Εκτεταμένος ρυθμιστής φωτεινότητας γρηγ. ρυθμίσεων QS</string>
     <string name="qs_show_brightness_slider_expanded_summary">Εμφάνιση μπάρας φωτεινότητας, όταν ανοίγετε τις γρήγ. ρυθμίσεις</string>
     <string name="qs_show_auto_brightness_title">Εικονίδιο αυτόμ. φωτισμού</string>
     <string name="qs_show_auto_brightness_summary">Εμφάνιση ενός αυτομ. πλήκτρου ελέγχου φωτεινότητας, δίπλα στην μπάρα κύλισης</string>
     <string name="qs_brightness_position_bottom_title">Μπάρα φωτεινότητας κάτω (λειτουργεί μόνο σε επέκταση των γρηγ. ρυθμίσεων QS)</string>
     <string name="qs_brightness_position_bottom_summary">Εμφάνιση της ρυθμιστικής μπάρας φωτεινότητας, στο κάτω μέρος των γρήγορων ρυθμίσεων</string>
-,
+
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Ρυθμίσεις φωτεινότητας</string>
     <string name="status_bar_toggle_brightness_summary">Προσαρμόστε την φωτεινότητα, σέρνοντας δίπλα στην στατική μπάρα</string>
@@ -678,11 +678,7 @@
     <string name="lock_weather_city_font_summary">Αλλάξτε το φόντο καιρού πόλης στην οθόνη κλειδώματος</string>
     <string name="lock_weather_city_dialog_title">Επιλέξτε το φόντο καιρού πόλης στην οθόνη κλειδώματος</string>
 
-    <!-- QS Header data uasge -->
-   <string name="qs_datausage_title">Χρήση δεδομένων στην κεφαλίδα γρηγ. ρυθμίσεων QS</string>
-   <string name="qs_datausage_disabled">Ανενεργό</string>
-   <string name="qs_datausage_daily">Ημερήσια χρήση</string>
-   <string name="qs_datausage_monthly">Μηνιαία χρήση</string>
+  
 
     <!-- Gradient Panel QS Bg -->
     <string name="qs_new_bg_title">Χρώμα διαβάθμισης υποβάθρου</string>
